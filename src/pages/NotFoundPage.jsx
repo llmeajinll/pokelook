@@ -35,7 +35,7 @@ export default function NotFoundPage() {
           </button>
           <button
             onClick={() => navigate(-1)}
-            className='text-sm font-bold text-[#5a5070] bg-white border border-[#e0dcea] px-6 py-4 rounded-xl cursor-pointer'
+            className='text-sm font-bold text-text-muted bg-white border px-6 py-4 rounded-xl cursor-pointer'
           >
             이전 페이지
           </button>
