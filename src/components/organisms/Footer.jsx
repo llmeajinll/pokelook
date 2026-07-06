@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function Footer() {
   return (
     <div className='border-t border-border py-8 px-6 max-[378px]:pt-6 max-[378px]:pb-20 max-[378px]:px-4 max-[378px]:text-center'>

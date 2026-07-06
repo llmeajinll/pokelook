@@ -1,4 +1,3 @@
-import React from 'react';
 import ZeroResult from '@/assets/icons/zeroResult.svg?react';
 
 export default function Nothing({ children }) {
